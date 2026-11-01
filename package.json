@@ -1,0 +1,9 @@
+{
+  "name": "opencode-compaction-anchor",
+  "version": "0.1.0",
+  "description": "An opencode plugin that keeps the original request and a task checklist in view across context compaction.",
+  "type": "module",
+  "main": "compaction-anchor.js",
+  "license": "MIT",
+  "scripts": { "test": "node --test test/" }
+}
